@@ -11,4 +11,4 @@ function drawTree(height) {
 	}
 };
 
-drawTree();
+drawTree(8);
